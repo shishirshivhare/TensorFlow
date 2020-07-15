@@ -1,6 +1,6 @@
 import sys
 import os
-import threading
+import threadin
 
 
 node_str = sys.stdin.read().replace("\n","")
